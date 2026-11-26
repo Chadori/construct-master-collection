@@ -1,46 +1,24 @@
 # Construct Master Collection
-This is the dedicated repository for the Construct Master Collection, developed by ChadoriXD. 
-You can post here the feature requests and bug issues you want to officially file. 
-
-## Important (05-02-2024)
-**Bug reports are now recommended to be directly posted in the [Discord Community](https://discord.com/invite/eS3HK88) server.**
+This is the dedicated repository for the Construct Master Collection, developed by Chadori.
 
 ## Tip
-You can verify your issues, feature requests in realtime through the [Discord Community](https://discord.com/invite/eS3HK88) server.
-This makes work and filtering faster.
+You can verify your issues and feature requests in real time through the [Discord Community](https://discord.com/invite/eS3HK88) server.
+This makes processing and filtering faster.
 
 ## Sending a Bug Report
-Please always include the steps to reproduce the issue with a demo project.
-This makes it faster to find and fix the problem and faster to advice you the solution if there isn't one.
+Please always include steps to reproduce the issue along with a demo project.
+This makes it faster to find and fix the problem, or to advise you on a solution if there is one available.
 
 ## Sending a Feature Request
-You can post a feature request here if you are confident it is a good addition to the collection while also practical 
-and beneficial to the other users.
-If you are unsure of a certain feature you wish to propose, please discuss it first in the Discord Server. 
+You can post a feature request here if you are confident it is a good addition to the collection that is both practical and beneficial to other users.
+If you are unsure about a feature you wish to propose, please discuss it first in the Discord server. 
 
 ## Express Feature Requests
-These are paid orders, which are given top priority development and support.
-You don't have to post here. I will manage the express orders.
+These are paid orders, which are given top priority for development and support.
+You do not need to post them here. I will manage express orders.
 
-## Website
-Website Link: https://www.constructcollection.com/
-
-## Documentation
-Documentation: https://www.constructcollection.com/documentation 
-
-## Discord Server
-Invite Link : https://discord.gg/eS3HK88
-
-## Status
-
-[Reinstated] :: This bug-tracker was reinstated into GitHub after frequent increase in users, issues and features.
-(July 19, 2019)
-
-[Migration] :: This bug-tracker was removed due to most bug reports being reported in the Discord Community.
-https://discord.gg/eS3HK88
-(December 16, 2018)
-
----------------------------------------------
-
-Welcome to my repository.
-Thank you for supporting my addon collection.
+## Links
+* **Website:** https://www.constructcollection.com/
+* **Pricing:** https://www.constructcollection.com/pricing
+* **Documentation:** https://www.constructcollection.com/documentations
+* **Discord Server:** https://discord.gg/eS3HK88
